@@ -1,6 +1,6 @@
-<!-- Centered Logo or Banner -->
+<!-- Centered Logoor Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=3EF732&center=true&vCenter=true&width=435&lines=Sounak+Kr+...)]
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=3EF732&center=true&vCenter=true&width=435&lines=Sounak+Kr+...)]
 </p>
 
 <!-- Typing Animation -->
