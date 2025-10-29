@@ -1,8 +1,6 @@
 <!-- Centered Logo or Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=3EF732&center=true&vCenter=true&width=435&lines=Sounak+Kumar+Mondal)]
 <p align="center">
-  <img src="[IMG-20230925-WA0002](https://github.com/user-attachments/assets/318ad17a-a3ae-4834-b734-55cfd930958d)
-Sounak Kr...svg" alt="Sounak Kumar Mondal Logo" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=3EF732&center=true&vCenter=true&width=435&lines=Sounak+Kr+...)]
 </p>
 
 <!-- Typing Animation -->
