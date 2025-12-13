@@ -33,7 +33,7 @@ I blend red teaming intuition with blue team resilience to secure cloud, on-prem
 - 🧱 **Infrastructure Security | Cloud Posture Auditing (AWS, Azure)**
 - 📦 **Dockerized IDS/IPS | Custom Attack Labs | Red/Blue Team Simulations**
 
-## 🚀 Projects ERA: <img src="https://github.com/user-attachments/assets/4238e265-916c-4dde-a5d1-6606af48de1f" width="180" />
+## 🚀 Projects ERA:<img src="https://github.com/user-attachments/assets/4238e265-916c-4dde-a5d1-6606af48de1f" width="180"/>
 - 🧠 Building LLM-powered AI Security Assistants
 - ⁙ A complete journey of 50+1 cybersecurity projects — beginner to expert, ending with a unified Cybersecurity Mega Lab. [[Project-51]](https://github.com/vaishnavucv/Project-51) <img src="https://media.tenor.com/QfwkPMRhiFsAAAAi/asterisk-red-hot-chili-peppers.gif" width="20" />
 - ※  A2A powered Autonomous Self-Intelligent Generative Interface Layer [[ S.I.G.I.L ]](https://github.com/vaishnavucv/SIGIL) <img src="https://github.com/user-attachments/assets/39378532-52b8-4114-ab81-531c1a7ec300" width="20" /> 
@@ -154,7 +154,7 @@ Welcome to the battle deck — here’s the arsenal I deploy across cybersecurit
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/sounak-kumar-mondal-2660b7314/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGqG%2B1OHwTV6WsxuCasSzGQ%3D%3D)
-[![Twitter](@KumarSouna97984)
+[![Twitter](https://x.com/KumarSouna97984)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hack_with_vyshu)
 [![Discord](https://img.shields.io/discord/1171385981501456394?label=Discord)](https://discord.gg/bFkdWjgCdF)
 
