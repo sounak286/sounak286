@@ -1,5 +1,5 @@
 
-# 👨‍💻 Who is [SOUNAK KR.MONDAL](www.linkedin.com/in/sounak-kumar-mondal-2660b7314) ?  aka [`@hackwithvyshu`](https://instagram.com/hack_with_vyshu)
+# 👨‍💻 Who is [SOUNAK KR.MONDAL](https://www.linkedin.com/in/sounak-kumar-mondal-2660b7314/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM6aDtWJZQVmomA5dkZ%2BdmA%3D%3D) ?  aka [`@hackwithvyshu`](https://instagram.com/hack_with_vyshu)
 
 ※⁜∻ Principal Cybersecurity Engineer | VAPT & Red Team Specialist | DevSecOps Architect | CyberRange Developer | Mentor & Educator
 
