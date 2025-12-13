@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Google Gemini Student Ambassador <br>Gen AI, Gemini API, Dataplex, Cloud, GCP, DevOps, Frontend and Backend Development <br>Google Cloud Practitioner {Backend work in Cloud Shell, GKE Cluster making in Kubernetes Engine etc.}<br>Google (Digital Skillshop) Certified in DV360 tool<br>Open Source Contributor at Hacktoberfest <br>Honoured as 'Super Contributor' at Hacktoberfest 2025<br>Oracle Cloud Infrastructure <br>
+I am a Microsoft Student Ambesedor <br>Gen AI, Gemini API, Dataplex, Cloud, GCP, DevOps, FUll Stack Dveloper <br>Google Cloud Practitioner {Backend work in Cloud Shell, GKE Cluster making in Kubernetes Engine etc.}<br>Google (Digital Skillshop) Certified in DV360 tool<br>Open Source Contributor at Hacktoberfest <br>Honoured as 'Super Contributor' at Hacktoberfest 2025<br>Oracle Cloud Infrastructure <br>
 
 
 [![An image of @saptarshi3456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saptarshi3456)](https://holopin.io/@saptarshi3456)
