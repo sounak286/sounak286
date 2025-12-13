@@ -1,7 +1,7 @@
 
 # 👨‍💻 Who is [SOUNAK KR.MONDAL](https://www.linkedin.com/in/sounak-kumar-mondal-2660b7314/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM6aDtWJZQVmomA5dkZ%2BdmA%3D%3D) ?  
 
-※⁜∻ Principal Cybersecurity Engineer | VAPT & Red Team Specialist | DevSecOps Architect | CyberRange Developer | Mentor & Educator
+※⁜∻ BCA’28@TMSL | 7x hackathon finalist🎖️ SIH 2024 & 25 Finalist 🏆|3x  National Hackathon Finalist |Full-Stack Web/App Developer |Core Team@GDGTMSL@IIC-TMSL@GDG KOL|
 
 ---
 
