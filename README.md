@@ -4,6 +4,8 @@
 ※⁜∻ BCA’28@TMSL | 7x hackathon finalist🎖️ SIH 2024 & 25 Finalist 🏆|3x  National Hackathon Finalist |Full-Stack Web/App Developer |Core Team@GDGTMSL@IIC-TMSL@GDG KOL|
 
 ---
+[![An image of @saptarshi3456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saptarshi3456)](https://holopin.io/@saptarshi3456)
+
 
 🔐 A highly motivated and detail-oriented student with a strong foundation in data analysis, statistics, and programming. Proficient in using tools such as Python, R, SQL, and Excel for data manipulation, analysis, and visualization. Adept at identifying trends, patterns, and insights to support data-driven decision-making. Completed several academic projects focused on data cleaning, exploratory data analysis (EDA), and predictive modeling. Eager to apply analytical skills and technical knowledge to contribute to meaningful business solutions. 
 
