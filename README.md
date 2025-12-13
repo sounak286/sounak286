@@ -154,7 +154,7 @@ Welcome to the battle deck — here’s the arsenal I deploy across cybersecurit
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/sounak-kumar-mondal-2660b7314/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGqG%2B1OHwTV6WsxuCasSzGQ%3D%3D)
-[![Twitter](https://x.com/KumarSouna97984)
+[![Twitter](https://x.com/KumarSouna97984/photo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hack_with_vyshu)
 [![Discord](https://img.shields.io/discord/1171385981501456394?label=Discord)](https://discord.gg/bFkdWjgCdF)
 
