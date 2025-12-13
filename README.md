@@ -1,84 +1,31 @@
-<!-- Centered Logoor Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=3EF732&center=true&vCenter=true&width=435&lines=Sounak+Kr+...)]
-<p align="center">
-</p>
+# 💫 About Me:
+I am a Google Gemini Student Ambassador <br>Gen AI, Gemini API, Dataplex, Cloud, GCP, DevOps, Frontend and Backend Development <br>Google Cloud Practitioner {Backend work in Cloud Shell, GKE Cluster making in Kubernetes Engine etc.}<br>Google (Digital Skillshop) Certified in DV360 tool<br>Open Source Contributor at Hacktoberfest <br>Honoured as 'Super Contributor' at Hacktoberfest 2025<br>Oracle Cloud Infrastructure <br>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;I'm+Sounak+Kr..;A+Creative+Full-Stack+Developer+%F0%9F%9A%80;Tech+Explorer+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG" />
-  </a>
-</p>
 
-----
+[![An image of @saptarshi3456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saptarshi3456)](https://holopin.io/@saptarshi3456)
 
-## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500" />
-</div>
 
-<br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stylish_saptarshi.bm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saptarshi-basak-91666828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basaksaptarshi1@gmail.com) 
 
-- ### 🎯 Passionate **Full-Stack Developer** focused on building scalable, and impactful web applications.
-- ### 🌱 Currently diving deeper into **MERN Stack**, **Next.js**, **Web3**, and **AI Integration**.
-- ### 🚀 Always on the lookout to **collaborate on exciting tech projects**.
-- ### 🧠 Love exploring **new technologies**, experimenting, and pushing creative limits.
-- ### 💬 Always open for a chat about **tech, startups, or crazy ideas**!
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saptarshi3456&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Saptarshi3456&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi3456&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saptarshi3456&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🌐 Connect with Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <a href="https://instagram.com/does_not_exist.ai/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>&nbsp;
-  <a href="www.linkedin.com/in/sounak-kumar-mondal-2660b7314" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://github.com/sujayx07/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saptarshi3456&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Saptarshi3456&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,c,cpp,python,figma,firebase,git,flutter,solidity" alt="My Skills" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujayx07&theme=radical&show_icons=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujayx07&theme=radical&hide_border=false" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujayx07&theme=radical&hide_border=false&layout=compact&langs_count=8" width="48%" />
-</div>
-
----
-
-## 🔥 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sujayx07&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
-
----
-
-## ✨ Fun Extras
-
-- ### 🎨 Designing smooth UI experiences with **TailwindCSS** and **Figma**.
-- ### 🛠 Building side projects for fun, learning, and real-world impact.
-- ### 🛰️ Dreaming big about **future tech**, **blockchain innovations**, and **space exploration**. 🚀
-
-
----
-<!-- Made with 💖 by Sujay Dey -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
