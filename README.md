@@ -5,7 +5,18 @@
 
 ---
 
-🔐 With over **7+ years** of professional expertise, I specialize in building, breaking, and securing systems. I lead hands-on **VAPT** engagements, architect full-stack **DevSecOps pipelines**, and deliver elite **cybersecurity training programs** that empower professionals across industries.
+🔐 A highly motivated and detail-oriented student with a strong foundation in data analysis, statistics, and programming. Proficient in using tools such as Python, R, SQL, and Excel for data manipulation, analysis, and visualization. Adept at identifying trends, patterns, and insights to support data-driven decision-making. Completed several academic projects focused on data cleaning, exploratory data analysis (EDA), and predictive modeling. Eager to apply analytical skills and technical knowledge to contribute to meaningful business solutions. 
+
+Key Skills:
+
+Data Analysis & Visualization (Excel, Python, R)
+Database Management (SQL)
+Statistical Analysis & Hypothesis Testing
+Data Cleaning & Preparation
+Predictive Modeling & Machine Learning (Beginner)
+Dashboard Creation (Tableau, Power BI)
+Strong Analytical and Problem-Solving Skills
+Excellent Communication & Team Collaboration
 
 I blend red teaming intuition with blue team resilience to secure cloud, on-prem, hybrid, and IoT environments. My mission? **To defend by attack** — and to teach others how to do the same.
 
