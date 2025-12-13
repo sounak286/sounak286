@@ -153,7 +153,7 @@ Welcome to the battle deck — here’s the arsenal I deploy across cybersecurit
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/sounak-kumar-mondal-2660b7314/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7047%2FnJ%2FQU2Rp%2FUMYVM9kQ%3D%3D)
+[![LinkedIn](https://www.linkedin.com/in/sounak-kumar-mondal-2660b7314/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGqG%2B1OHwTV6WsxuCasSzGQ%3D%3D)
 [![Twitter](@KumarSouna97984)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hack_with_vyshu)
 [![Discord](https://img.shields.io/discord/1171385981501456394?label=Discord)](https://discord.gg/bFkdWjgCdF)
@@ -161,10 +161,10 @@ Welcome to the battle deck — here’s the arsenal I deploy across cybersecurit
 ---
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavucv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavucv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavucv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
 ## 🧪 TryHackMe:
-<img src="https://tryhackme-badges.s3.amazonaws.com/hackwithvyshu.png" alt="TryHackMe badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/hackwithvyshu.png" alt="TryHackMe badge"/>
