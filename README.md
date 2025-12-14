@@ -11,7 +11,7 @@
 # Hi! I'm SOUNAK KUMAR MONDAL
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" /> **※⁜∻ BCA’28@TMSL | 7x hackathon finalist🎖️ SIH 2024 & 25 Finalist 🏆|3x  National Hackathon Finalist |Full-Stack Web/App Developer |Core Team@GDGTMSL@IIC-TMSL@GDG KOL|** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
 
-
+![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 
 🔐 A highly motivated and detail-oriented student with a strong foundation in data analysis, statistics, and programming. Proficient in using tools such as Python, R, SQL, and Excel for data manipulation, analysis, and visualization. Adept at identifying trends, patterns, and insights to support data-driven decision-making. Completed several academic projects focused on data cleaning, exploratory data analysis (EDA), and predictive modeling. Eager to apply analytical skills and technical knowledge to contribute to meaningful business solutions. 
 
