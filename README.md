@@ -25,13 +25,10 @@ I blend red teaming intuition with blue team resilience to secure cloud, on-prem
 > _Engineer by title. Cyberwarrior by choice. Mentor by legacy._
 
 ## 🧠 My Expertise: <img src="https://github.com/user-attachments/assets/c59d0348-c502-4ce0-bd55-584ad39f582f" width="50" /> 
-- 🔍 **VAPT/Penetration Testing in Web, API, Netwok & Mobile**
-- 🔐 **DevSecOps & AiSecOps Pipeline Development**
-- 🧬 **AI + Cybersecurity Automation/Actions**
-- 🛰 **SOC2 Readiness | Threat Intelligence | Malware Analysis**
-- 🧪 **CyberRange Lab Environments for Corporate Training**
-- 🧱 **Infrastructure Security | Cloud Posture Auditing (AWS, Azure)**
-- 📦 **Dockerized IDS/IPS | Custom Attack Labs | Red/Blue Team Simulations**
+- 🔍 Aspiring Software Developer passionate about web, mobile, AI/ML, and Quantum Computing. Daily coder and problem solver.
+💻 Full-stack & Android app development with hands-on 3D modeling and graphics design.
+🤖 Build web & mobile apps, AI/ML projects, and creative 3D/graphics solutions combining functionality and visual appeal.
+⚡ Agile, productive, intuitive, and innovative. Believer in learning by reading docs and building projects.
 
 ## 🚀 Projects ERA:<img src="https://github.com/user-attachments/assets/4238e265-916c-4dde-a5d1-6606af48de1f" width="180"/>
 - 🧠 Building LLM-powered AI Security Assistants
