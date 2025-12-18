@@ -92,7 +92,7 @@ Oracle Cloud Infrastructure
 ---
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavucv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sounakmondal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavucv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -110,7 +110,7 @@ Oracle Cloud Infrastructure
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 <picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SwornoDas/SwornoDas/blob/output/github-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SounakMondal/Sounakmondal/blob/output/github-snake-dark.svg" /> 
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SwornoDas/SwornoDas/blob/output/github-snake.svg" /> 
   <img alt="github-snake" src="https://github.com/utkarsh-48/utkarsh-48/blob/output/github-snake.svg" /> 
 </picture>
